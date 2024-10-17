@@ -116,7 +116,7 @@ const AdviceSmoker = () => {
                             </button>
                         )}
                         {consejo && ( // Verificar que consejo no sea nulo antes de mostrarlo
-                            <div className="mt-4">g
+                            <div className="mt-4">
                                 <p>{consejo}</p>
                             </div>
                         )}

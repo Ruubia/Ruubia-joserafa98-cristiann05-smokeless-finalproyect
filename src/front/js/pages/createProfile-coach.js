@@ -223,9 +223,9 @@ const CreateProfileCoach = () => {
     
                             {/* Botón de guardar */}
                             <div className="text-center">
-                                <button type="submit" className="btn btn-primary w-100" style={{ height: '60px', fontSize: '1.25rem' }}>
-                                    Guardar
-                                </button>
+                            <button className="btn btn-dark w-100" type="submit" style={{ fontSize: '1.25rem', padding: '15px' }}>
+                                Guardar Cambios
+                            </button>
                             </div>
                         </form>
                     </div>
